@@ -33,4 +33,4 @@ To run the app locally:
 1. Clone the repo:
    ```bash
    https://github.com/abhishek202324/Weather-App-using-API
-## Screenshot
+
